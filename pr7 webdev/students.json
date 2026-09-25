@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "name": "Kunj Hirani",
+        "course": "CSE",
+        "year": 3,
+        "email": "kunj.hirani@gmail.com",
+        "cgpa": 9.5
+    },
+    {
+        "id": 2,
+        "name": "Rahul Patel",
+        "course": "IT",
+        "year": 2,
+        "email": "rahul.patel@gmail.com",
+        "cgpa": 8.12
+    },
+    {
+        "id": 3,
+        "name": "Priyank Shah",
+        "course": "CSE",
+        "year": 3,
+        "email": "priyank.shah@gmail.com",
+        "cgpa": 8.65
+    },
+    {
+        "id": 4,
+        "name": "Aarav Mehta",
+        "course": "BCA",
+        "year": 2,
+        "email": "aarav.mehta@gmail.com",
+        "cgpa": 8.34
+    },
+    {
+        "id": 5,
+        "name": "Remish Desai",
+        "course": "ECE",
+        "year": 1,
+        "email": "remish.desai@gmail.com",
+        "cgpa": 8.78
+    },
+    {
+        "id": 6,
+        "name": "Harsh Joshi",
+        "course": "CSE",
+        "year": 4,
+        "email": "harsh.joshi@gmail.com",
+        "cgpa": 7.92
+    },
+    {
+        "id": 7,
+        "name": "Nehal Patel",
+        "course": "IT",
+        "year": 3,
+        "email": "nehal.patel@gmail.com",
+        "cgpa": 8.45
+    },
+    {
+        "id": 8,
+        "name": "Dev Patel",
+        "course": "BSC",
+        "year": 2,
+        "email": "dev.patel@gmail.com",
+        "cgpa": 7.68
+    },
+    {
+        "id": 9,
+        "name": "Mann Hirani",
+        "course": "ECE",
+        "year": 1,
+        "email": "mann.hirani@gmail.com",
+        "cgpa": 9.02
+    },
+    {
+        "id": 10,
+        "name": "Yash Trivedi",
+        "course": "ECE",
+        "year": 3,
+        "email": "yash.trivedi@gmail.com",
+        "cgpa": 7.55
+    },
+    {
+        "id": 11,
+        "name": "Dhruv Mehta",
+        "course": "IT",
+        "year": 4,
+        "email": "dhruv.mehta@gmail.com",
+        "cgpa": 8.91
+    },
+    {
+        "id": 12,
+        "name": "Dhruv Shah",
+        "course": "CIVIL",
+        "year": 3,
+        "email": "dhruv.shah@gmail.com",
+        "cgpa": 8.26
+    },
+    {
+        "id": 13,
+        "name": "Kunj Patel",
+        "course": "CSE",
+        "year": 2,
+        "email": "kunj.patel@gmail.com",
+        "cgpa": 8.57
+    },
+    {
+        "id": 14,
+        "name": "Rahul Desai",
+        "course": "IT",
+        "year": 1,
+        "email": "rahul.desai@gmail.com",
+        "cgpa": 7.88
+    },
+    {
+        "id": 15,
+        "name": "Jash Joshi",
+        "course": "ECE",
+        "year": 4,
+        "email": "jash.joshi@gmail.com",
+        "cgpa": 8.73
+    }
+]
+
+
