@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "How can I register for an event?",
+    "answer": "Open the Events page, select the event you are interested in, and follow the registration instructions."
+  },
+  {
+    "id": 2,
+    "question": "Where can I check my academic results?",
+    "answer": "You can check your academic results on the Results page of the Student Hub."
+  },
+  {
+    "id": 3,
+    "question": "How can I update my profile?",
+    "answer": "Open your profile section and update the required personal or academic information."
+  },
+  {
+    "id": 4,
+    "question": "How can I contact the college administration?",
+    "answer": "You can use the contact information provided on the Help or Contact page."
+  },
+  {
+    "id": 5,
+    "question": "Where can I find upcoming events?",
+    "answer": "All upcoming college events are displayed on the Events page."
+  },
+  {
+    "id": 6,
+    "question": "Can I search for a specific event?",
+    "answer": "Yes. Use the search box on the Events page to find an event by its name or related information."
+  },
+  {
+    "id": 7,
+    "question": "How can I view student results?",
+    "answer": "Go to the Results page to view student academic records and CGPA information."
+  },
+  {
+    "id": 8,
+    "question": "Can I filter student results?",
+    "answer": "Yes. Student records can be filtered using available course or year options."
+  },
+  {
+    "id": 9,
+    "question": "What should I do if I forget my password?",
+    "answer": "Use the password recovery option on the login page or contact the administration for assistance."
+  },
+  {
+    "id": 10,
+    "question": "How can I sign up for Student Hub?",
+    "answer": "Open the Sign Up page, enter the required details, and submit the registration form."
+  },
+  {
+    "id": 11,
+    "question": "Which courses are available in Student Hub?",
+    "answer": "Student Hub can contain information for courses such as CSE, IT, AIDS, and ECE."
+  },
+  {
+    "id": 12,
+    "question": "Can I search for FAQs?",
+    "answer": "Yes. Use the search option on the Help page to quickly find a relevant question."
+  },
+  {
+    "id": 13,
+    "question": "What information is available for events?",
+    "answer": "Event information can include the event name, date, venue, category, and description."
+  },
+  {
+    "id": 14,
+    "question": "What information is available in student records?",
+    "answer": "Student records can include the student's name, course, year, email, and CGPA."
+  },
+  {
+    "id": 15,
+    "question": "What can I do if I have a problem with the website?",
+    "answer": "Check the Help page for common solutions or contact the appropriate college administration for further assistance."
+  }
+]

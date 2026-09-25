@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Tech Fest 2026",
+        "date": "2026-09-20",
+        "venue": "Main Auditorium",
+        "category": "Technical",
+        "description": "Annual technical festival featuring coding and technology activities."
+    },
+    {
+        "id": 2,
+        "name": "Coding Competition",
+        "date": "2026-09-22",
+        "venue": "Computer Lab",
+        "category": "Technical",
+        "description": "Programming competition for students."
+    },
+    {
+        "id": 3,
+        "name": "Web Development Workshop",
+        "date": "2026-09-25",
+        "venue": "Seminar Hall",
+        "category": "Workshop",
+        "description": "Workshop covering modern web development concepts."
+    },
+    {
+        "id": 4,
+        "name": "Hackathon 2026",
+        "date": "2026-09-28",
+        "venue": "Innovation Center",
+        "category": "Technical",
+        "description": "Student hackathon focused on solving real-world problems."
+    },
+    {
+        "id": 5,
+        "name": "Cyber Security Seminar",
+        "date": "2026-10-02",
+        "venue": "Conference Hall",
+        "category": "Seminar",
+        "description": "Seminar on cybersecurity, online safety and ethical hacking."
+    },
+    {
+        "id": 6,
+        "name": "AI and Machine Learning Workshop",
+        "date": "2026-10-05",
+        "venue": "Computer Lab 2",
+        "category": "Workshop",
+        "description": "Introduction to artificial intelligence and machine learning."
+    },
+    {
+        "id": 7,
+        "name": "Sports Day",
+        "date": "2026-10-10",
+        "venue": "University Sports Ground",
+        "category": "Sports",
+        "description": "Annual sports event with various indoor and outdoor activities."
+    },
+    {
+        "id": 8,
+        "name": "Code Debugging Challenge",
+        "date": "2026-10-14",
+        "venue": "Programming Lab",
+        "category": "Competition",
+        "description": "Competition where students solve programming and debugging problems."
+    },
+    {
+        "id": 9,
+        "name": "Entrepreneurship Seminar",
+        "date": "2026-10-18",
+        "venue": "Seminar Hall",
+        "category": "Seminar",
+        "description": "Session on startups, innovation and entrepreneurship."
+    },
+    {
+        "id": 10,
+        "name": "Project Exhibition",
+        "date": "2026-10-22",
+        "venue": "Exhibition Hall",
+        "category": "Exhibition",
+        "description": "Students present their academic and technical projects."
+    },
+    {
+        "id": 11,
+        "name": "Photography Competition",
+        "date": "2026-10-26",
+        "venue": "Open Campus",
+        "category": "Cultural",
+        "description": "Photography competition open to all students."
+    },
+    {
+        "id": 12,
+        "name": "Cultural Fest",
+        "date": "2026-10-30",
+        "venue": "Open Air Theatre",
+        "category": "Cultural",
+        "description": "Cultural event featuring music, dance and student performances."
+    },
+    {
+        "id": 13,
+        "name": "Resume Building Workshop",
+        "date": "2026-11-03",
+        "venue": "Placement Cell",
+        "category": "Career",
+        "description": "Workshop helping students create effective resumes."
+    },
+    {
+        "id": 14,
+        "name": "Placement Preparation Seminar",
+        "date": "2026-11-07",
+        "venue": "Main Auditorium",
+        "category": "Career",
+        "description": "Seminar covering placement preparation and interview skills."
+    },
+    {
+        "id": 15,
+        "name": "Innovation Challenge",
+        "date": "2026-11-12",
+        "venue": "Innovation Center",
+        "category": "Competition",
+        "description": "Students present innovative ideas and solutions to real-world problems."
+    }
+]

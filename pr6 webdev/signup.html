@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Student Hub - Sign Up</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="script.js" defer></script>
+
+</head>
+
+
+<body>
+
+    <!-- NAVBAR -->
+
+    <div class="navbar">
+
+        <div class="logo">
+
+            <img src="studenthublogo.png"
+                 alt="Student Hub Logo">
+
+            <h1>Student Hub</h1>
+
+        </div>
+
+
+        <div class="links">
+
+            <a href="home.html">Home</a> |
+            <a href="about.html">About</a> |
+            <a href="courses.html">Courses</a> |
+            <a href="admission.html">Admission</a> |
+            <a href="timetable.html">Time Table</a> |
+            <a href="events.html">Events</a> |
+            <a href="result.html">Result</a> |
+            <a href="help.html">Help</a> |
+            <a href="login.html">Login</a>
+
+        </div>
+
+    </div>
+
+
+    <!-- SIGN UP -->
+
+    <div class="main">
+
+        <div class="signup-box">
+
+            <h1>Student Registration</h1>
+
+            <p class="description">
+                Fill in your details
+            </p>
+
+
+            <form id="registrationForm" novalidate>
+
+
+                <!-- FULL NAME -->
+
+                <label for="fullName">
+                    Full Name
+                </label>
+
+                <input type="text"
+                       id="fullName"
+                       placeholder="Enter Full Name">
+
+                <span id="fullNameError"
+                      class="error-message">
+                </span>
+
+
+                <!-- EMAIL -->
+
+                <label for="email">
+                    Email Address
+                </label>
+
+                <input type="email"
+                       id="email"
+                       placeholder="Enter Email Address">
+
+                <span id="emailError"
+                      class="error-message">
+                </span>
+
+
+                <!-- MOBILE -->
+
+                <label for="mobile">
+                    Mobile Number
+                </label>
+
+                <input type="tel"
+                       id="mobile"
+                       placeholder="Enter Mobile Number"
+                       maxlength="10">
+
+                <span id="mobileError"
+                      class="error-message">
+                </span>
+
+
+                <!-- PASSWORD -->
+
+                <label for="password">
+                    Password
+                </label>
+
+                <input type="password"
+                       id="password"
+                       placeholder="Create Password">
+
+                <span id="passwordError"
+                      class="error-message">
+                </span>
+
+
+                <!-- CONFIRM PASSWORD -->
+
+                <label for="confirmPassword">
+                    Confirm Password
+                </label>
+
+                <input type="password"
+                       id="confirmPassword"
+                       placeholder="Confirm Password">
+
+                <span id="confirmPasswordError"
+                      class="error-message">
+                </span>
+
+
+                <!-- COURSE -->
+
+                <label for="course">
+                    Course
+                </label>
+
+                <select id="course">
+
+                    <option value="">
+                        Select Course
+                    </option>
+
+                    <option value="CSE">
+                        Computer Science and Engineering
+                    </option>
+
+                    <option value="IT">
+                        Information Technology
+                    </option>
+
+                    <option value="AIDS">
+                        Artificial Intelligence and Data Science
+                    </option>
+
+                    <option value="ECE">
+                        Electronics and Communication Engineering
+                    </option>
+
+                </select>
+
+                <span id="courseError"
+                      class="error-message">
+                </span>
+
+
+                <!-- YEAR -->
+
+                <label for="year">
+                    Year
+                </label>
+
+                <select id="year">
+
+                    <option value="">
+                        Select Year
+                    </option>
+
+                    <option value="1">
+                        First Year
+                    </option>
+
+                    <option value="2">
+                        Second Year
+                    </option>
+
+                    <option value="3">
+                        Third Year
+                    </option>
+
+                    <option value="4">
+                        Fourth Year
+                    </option>
+
+                </select>
+
+                <span id="yearError"
+                      class="error-message">
+                </span>
+
+
+                <!-- GENDER -->
+
+                <label>
+                    Gender
+                </label>
+
+                <div class="gender-options">
+
+                    <label>
+                        <input type="radio"
+                               name="gender"
+                               value="Male">
+
+                        Male
+                    </label>
+
+                    <label>
+                        <input type="radio"
+                               name="gender"
+                               value="Female">
+
+                        Female
+                    </label>
+
+                    <label>
+                        <input type="radio"
+                               name="gender"
+                               value="Other">
+
+                        Other
+                    </label>
+
+                </div>
+
+                <span id="genderError"
+                      class="error-message">
+                </span>
+
+
+                <!-- TERMS -->
+
+                <div class="terms">
+
+                    <label>
+
+                        <input type="checkbox"
+                               id="terms">
+
+                        I accept the terms and conditions.
+
+                    </label>
+
+                </div>
+
+                <span id="termsError"
+                      class="error-message">
+                </span>
+
+
+                <!-- MESSAGE -->
+
+                <p id="formMessage"
+                   class="form-message">
+                </p>
+
+
+                <!-- BUTTON -->
+
+                <button type="submit"
+                        class="signup-button">
+
+                    Create Account
+
+                </button>
+
+            </form>
+
+
+            <p class="login-link">
+
+                Already have an account?
+
+                <a href="login.html">
+                    Login
+                </a>
+
+            </p>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
