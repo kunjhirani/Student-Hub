@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Events</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="script.js" defer></script>
+
+</head>
+
+<body>
+
+    <div class="navbar">
+
+        <div class="logo">
+
+            <img src="studenthublogo.png" alt="Student Hub Logo">
+
+            <h1>Student Hub</h1>
+
+        </div>
+
+        <div class="links">
+
+            <a href="home.html">Home</a> |
+            <a href="about.html">About</a> |
+            <a href="courses.html">Courses</a> |
+            <a href="admission.html">Admission</a> |
+            <a href="timetable.html">Time Table</a> |
+            <a href="events.html">Events</a> |
+            <a href="result.html">Result</a> |
+            <a href="help.html">Help</a> |
+            <a href="login.html">Login</a>
+
+        </div>
+
+    </div>
+
+
+    <div class="main">
+
+        <div class="heading">
+
+            <h1>
+                College Events
+            </h1>
+
+            <p>
+                Stay updated with upcoming events at Student Hub.
+            </p>
+
+        </div>
+
+
+        <!-- Search, Filter and Sort -->
+
+        <div class="event-controls">
+
+            <input
+                type="text"
+                id="eventSearch"
+                placeholder="Search events..."
+            >
+
+            <select id="eventCategory">
+
+                <option value="all">All Categories</option>
+
+                <option value="Technical">Technical</option>
+
+                <option value="Sports">Sports</option>
+
+                <option value="Cultural">Cultural</option>
+
+                <option value="Placement">Placement</option>
+
+                <option value="Academic">Academic</option>
+
+            </select>
+
+
+            <select id="eventSort">
+
+                <option value="default">Sort By</option>
+
+                <option value="nameAsc">Name (A-Z)</option>
+
+                <option value="nameDesc">Name (Z-A)</option>
+
+                <option value="dateAsc">Date (Oldest First)</option>
+
+                <option value="dateDesc">Date (Newest First)</option>
+
+            </select>
+
+        </div>
+
+
+        <!-- Loading Message -->
+
+        <p id="eventLoading">
+            Loading events...
+        </p>
+
+
+        <!-- Error Message -->
+
+        <p id="eventError">
+        </p>
+
+
+        <!-- Events will be inserted here using JavaScript -->
+
+        <div class="events" id="eventsContainer">
+
+        </div>
+
+
+        <!-- Pagination -->
+
+        <div class="pagination" id="eventPagination">
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
